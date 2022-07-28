@@ -1,0 +1,15 @@
+.User {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 1px solid gray;
+    padding-top: 10px;
+}
+
+.user__content {
+    margin-left: 50px;
+}
+
+.btn__useredit {
+    padding: 50px;
+}
